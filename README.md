@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Bharath, a computer science student exploring frontend development by building and deploying projects.<br><br>I work mainly with HTML, CSS, and JavaScript, and I enjoy focusing on clean layout, spacing, and responsive design.<br><br>I’m currently strengthening my fundamentals through hands-on projects and looking to continuously improve my code quality and problem-solving skills.<br>
 
-## 🌐 Portfolio
+## 🌐 My Work
 👉 **[Visit my portfolio](https://bharath1461.github.io/Portfolio/)**  
 A collection of frontend projects built using HTML, CSS, and JavaScript.
 
